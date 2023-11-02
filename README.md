@@ -7,6 +7,17 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Khorcha: An Inventory Management System
+<p align="center">
+This system includes a user-friendly Login/Register system to ensure secure access. Users can manage their clients, categorize income, and efficiently add, edit, view, and modify records with ease. The soft delete and permanent delete options provide data management flexibility.
+
+Efficiently manage expense details and client records within the system, keeping everything well-organized. User information is stored securely, and an admin panel offers comprehensive control over the system.
+
+To ensure data integrity and security, the system generates unique, randomized file names and utilizes slugs for easy reference. It also enables users to record invoices and create individualized, customized reports. These reports can be easily exported in PDF or Excel formats, streamlining data analysis and reporting processes.
+
+</o>
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
